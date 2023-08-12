@@ -1,0 +1,231 @@
+@media screen and (max-width: 430px){
+    .home .item1 div{
+        padding-left: 3% !important;
+        padding-top: 20% !important;
+    }
+
+    
+    .home .owl-item:nth-child(1) .item1 h4{
+        font-size: 45px !important;
+        width: 90%;
+    }
+
+    .owl-theme .owl-dots .owl-dot span{
+        display: none;
+    }
+
+    .home .item1 div{
+        margin-top: 22%;
+    }
+
+    .projects h1{
+        font-size: 115px !important;
+        padding-left: 0% !important;
+        word-break: break-all;
+    }
+
+    .projects .arts{
+        flex-direction: column;
+        flex-wrap: nowrap !important;
+        justify-content: space-between !important;
+        
+        }
+    
+
+    .projects{
+        padding: 30% 4% !important;
+        
+        
+    }
+
+    .projects .arts .item{
+        width: 100% !important;
+        margin: 0%;
+        margin-top: 25% !important;
+    }
+    .projects .arts .item:nth-child(even){
+        position: static !important;
+        top: 0;
+    }
+
+    .promotion{
+        padding: 135px 15px !important;
+    }
+
+    .promotion .whoweare{
+        flex-direction: column;
+    }
+
+    .promotion div> h4{
+        font-size: 25px !important;
+        font-weight: 100;
+    }
+
+    .promotion .whoweare p{
+        font-size: 15px !important;
+    }
+
+    .promotion .whoweare>div>div:nth-child(2){
+        flex-direction: column;
+    }
+
+    .promotion .whatwedo{
+        flex-direction: column;
+    }
+
+    .promotion .whatwedo{
+        margin-top: 30% !important;
+    }
+
+    .promotion .workprocess{
+        margin-top: 30% !important;
+        flex-direction: column;
+    }
+
+    .promotion .workprocess>div{
+        width: 100% !important;
+    }
+
+    .promotion .workprocess h4{
+        width: 100% !important;
+    }
+
+    .promotion .workprocess ol{
+        flex-wrap: nowrap !important;
+        flex-direction: column;
+    }
+
+    .promotion .workprocess ol li{
+        margin-top: 70px !important;
+    }
+
+    .promotion .ourskills{
+        flex-direction: column;
+        margin-top: 30% !important;
+    }
+
+    .promotion .ourskills div>ul>li{
+        flex-direction: column;
+        align-items: start !important;
+        
+    }
+
+    .promotion .ourskills div ul li span{
+        font-size: 60px !important;
+    }
+
+    .promotion .ourskills div ul li ul{
+        width: 100% !important;
+    }
+
+    .promotion .ourskills>div{
+        width: 100% !important;
+    }
+
+    .team{
+        padding: 20% 10px !important;
+        padding-top: 0px !important;
+    }
+
+    .team .item{
+        flex-direction: column !important;
+        margin-top: 30% !important;
+    }
+
+    .team .item .photo{
+        width: 100% !important;
+    }
+
+    .team .item .desc{
+        width: 100% !important;
+    }
+
+    .team .people{
+        padding-top: 0px !important;
+    }
+
+    .calltoaction span{
+        font-size: 70px !important;
+    }
+
+    .blogs h3 {
+        font-size: 50px !important;
+        padding: 0 0 !important;
+    }
+
+    .blogs{
+        padding: 30% 10px !important;
+    }
+
+    .blogs>div{
+        flex-direction: column !important;
+        margin-top: 20% !important;
+    }
+
+    .blogs .cart{
+        width: 100% !important;
+        margin-top: 30% !important;
+        height: 750px !important;
+    }
+
+    .blogs .cart:nth-child(1){
+        margin-top: 0 !important;
+    }
+
+    .blogs .cart h5{
+        margin-top: 10px !important;
+    }
+    .blogs .cart> div:last-child{
+        margin-top: 10px !important;
+    }
+
+    footer{
+        padding: 30% 10px !important;
+    }
+
+    .topfooter>div:nth-child(1){
+        flex-direction: column !important;
+        align-items: start !important;
+        width: 100% !important;
+    }
+
+    .topfooter>div:nth-child(2){
+        flex-direction: column !important;
+    }
+
+    .topfooter>div:nth-child(1) h4{
+        font-size: 35px !important;
+    }
+
+    .topfooter>div:nth-child(1) ul{
+        margin-top: 20% !important;
+    }
+
+    .topfooter>div:nth-child(2){
+        margin-top: 20% !important;
+    }
+
+    .topfooter>div:nth-child(2)>div{
+        margin-top: 20%;
+    }
+
+    .topfooter>div:nth-child(2)>div:nth-child(1){
+        margin-top: 0 !important;
+    }
+
+    .features{
+        flex-direction: column !important;
+    }
+
+    .features img, .features>div:last-child{
+        margin-top: 20%;
+    }
+
+    .features img{
+        width: 70% !important;
+        
+    }
+
+}
+    
+                                                      
